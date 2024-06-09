@@ -98,14 +98,13 @@ Loose Coupling and High Cohesion: Loose coupling refers to reducing dependencies
 
 Design Patterns: Design patterns are reusable solutions to common design problems encountered in software development. They provide templates and guidelines for solving recurring design challenges effectively and efficiently.
 
-
-
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 
 Modularity in software design refers to the practice of breaking down a complex software system into smaller, independent, and self-contained modules or components. Each module encapsulates a specific functionality or feature of the system and has well-defined interfaces for interacting with other modules. Modularity promotes separation of concerns and reduces dependencies between different parts of the system.
 
 How Modularity Improves Maintainability:
 Isolation of Changes: Since modules are self-contained and have clear boundaries, making changes or updates to one module does not affect other parts of the system. This isolation of changes reduces the risk of unintended side effects and makes it easier to understand and predict the impact of modifications.
+how modularity improves maintainability
 
 Ease of Understanding: Modular systems are easier to understand because each module represents a distinct functionality or feature. Developers can focus on understanding and working with individual modules without needing to comprehend the entire system at once, which reduces cognitive overload and improves productivity.
 
